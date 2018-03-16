@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kuminson/test-23-learnNodeAgain/issues"
   },
-  "homepage": "https://github.com/kuminson/test-23-learnNodeAgain#readme"
+  "homepage": "https://github.com/kuminson/test-23-learnNodeAgain#readme",
+  "dependencies": {
+    "formidable": "^1.2.0"
+  }
 }
